@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "outDir": "./dist",        // 📂 Dossier de sortie pour les fichiers compilés
+      "rootDir": "./src",        // 📂 Dossier contenant le code source TypeScript
+      "strict": true,          // ✅ Active les règles strictes de TS
+      "module": "CommonJS",    // 🔁 Module système (utilisé par Node.js)
+      "target": "ES6"          // 🎯 Version de JavaScript générée
+    }
+  }
