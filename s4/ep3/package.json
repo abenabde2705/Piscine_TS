@@ -1,0 +1,11 @@
+{
+  "name": "ep3",
+  "version": "1.0.0",
+  "description": "Utilisez une classe abstraite pour définir un modèle commun et imposez l’implémentation de méthodes dans les classes dérivées.",
+  "main": "./src/formes.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
